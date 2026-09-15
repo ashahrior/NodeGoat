@@ -1,5 +1,5 @@
 # Quickstart: Black Duck Security Scan Action with blackducksca:
-#     https://black-duck-staging.fluidtopics.net/r/bridge/latest/bridge-cli-guide/quickstart-black-duck-security-scan-action-with-black-duck-sca.html
+#     https://docs.blackduck.com/r/bridge/latest/bridge-cli-guide/quickstart-black-duck-security-scan-action-with-black-duck-sca.html
 name: Black Duck Security Scan
 on:
   push:
